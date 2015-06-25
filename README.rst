@@ -1,5 +1,5 @@
-django-gcm
-==========
+django-gcm (Support for App Engine)
+===================================
 
 .. image:: https://travis-ci.org/bogdal/django-gcm.png?branch=master
     :target: https://travis-ci.org/bogdal/django-gcm
